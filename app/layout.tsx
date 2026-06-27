@@ -103,7 +103,7 @@ export const metadata: Metadata = {
   },
   manifest: "/site.webmanifest",
   verification: {
-    google: process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION,
+    google: "0Qaid2yyNSKXEyryLPraC9GdDuUGJ5y1Y9UKeaErPX4",
   },
   icons: {
     icon: [
